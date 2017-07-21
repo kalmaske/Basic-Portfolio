@@ -95,6 +95,7 @@ section,aside{
 	background: white;
 	border: 2px solid lightgray;
 	width: 588px;
+	height: 100%;
 	padding: 40px 30px 30px 30px;
 }
 
@@ -136,13 +137,7 @@ aside img:hover{opacity: 0.7;}
 	float: left;
 }
 
-/*#portfolio_pic_box{
-	width: 588px;
-	margin-top: 40px;
-	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
-}*/
+
 
 .portfolio_pic{
 	height: 205px;
